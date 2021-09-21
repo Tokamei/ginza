@@ -24,6 +24,6 @@ setup(
     license="MIT",
     name="ginza",
     packages=find_packages(include=["ginza"]),
-    url="https://github.com/megagonlabs/ginza",
+    url="https://github.com/Tokamei/ginza",
     version='5.0.2',
 )
